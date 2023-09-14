@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Rogério G. Negri</title>
   <subtitle>Research portfolio of academic projects. </subtitle>
-  <updated>2023-09-14T18:12:36-03:00</updated>
+  <updated>2023-09-14T18:16:33-03:00</updated>
   <author>
     <name>Rogério Galante Negri</name>
     <uri>http://localhost:4000/</uri>
@@ -17,46 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>Project &amp;#35;3 &amp;#8212; FAPESP Grant &amp;#35;2021/01305-6</title>
-    <link href="http://localhost:4000/posts/Fapesp2021-23/" rel="alternate" type="text/html" title="Project &amp;amp;#35;3 &amp;amp;#8212; FAPESP Grant &amp;amp;#35;2021/01305-6" />
-    <published>2023-08-31T00:00:00-03:00</published>
-  
-    <updated>2023-09-14T17:37:54-03:00</updated>
-  
-    <id>http://localhost:4000/posts/Fapesp2021-23/</id>
-    <content src="http://localhost:4000/posts/Fapesp2021-23/" />
-    <author>
-      <name>Rogério Galante Negri</name>
-    </author>
-
-  
-    
-    <category term="change detection" />
-    
-    <category term="anomaly detection" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Theoretical advances on anomaly detection and environmental monitoring systems building (FAPESP Grant #2021/01305-6)
-
-Abstract
-
-Disasters have become frequent in recent years and have motivated the development of new methods and tools for systematic monitoring of areas and other factors that may imply risks to society. Remote Sensing rises as an indispensable technology for applications related...
-    </summary>
-  
-
-  </entry>
 
   
   <entry>
