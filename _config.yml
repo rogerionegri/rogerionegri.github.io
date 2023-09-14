@@ -18,34 +18,35 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vitor Yuichi # the main title
+title: Rogério G. Negri # the main title
 
-tagline: Data Analysis Portfolioo   # it will display as the sub-title
+tagline: Professor | Applied Computing | Remote Sesning | Geosciences   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is a personal portfolio of my academic and professional projects. 
+  Research portfolio of academic projects. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://vitor-yuichi.github.io/"
+url: "https://rogerionegri.github.io/"
 
 github:
-  username: vitor-yuichi  # change to your github username
+  username: rogerionegri  # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Vitor Yuichi Hossaki
-  email: vitor.yuichi@unesp.br # change to your email address
+  name: Rogério Galante Negri
+  email: anonymous@unesp.br # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/vitor-yuichi # change to your github homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    - https://github.com/rogerionegri # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/vitor-yuichi-67109817b/
+    #- https://www.linkedin.com/in/vitor-yuichi-67109817b/
+    - https://www.researchgate.net/profile/Rogerio-Negri
 
 google_site_verification: # fill in to your verification string
 
