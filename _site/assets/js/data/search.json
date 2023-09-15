@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Project &#35;3 &#8212; FAPESP Grant &#35;2021/01305-6",
+    "url": "/posts/Fapesp2021-23/",
+    "categories": "change detection, anomaly detection",
+    "tags": "anomaly, oc-svm, isolation forest, unsupervised, remote sensing, image, simulation, stochastic distance, sar, multispectral, clustering",
+    "date": "2023-08-31 00:00:00 -0300",
+    
+
+
+
+
+
+    
+    "snippet": "Theoretical advances on anomaly detection and environmental monitoring systems building (FAPESP Grant #2021/01305-6)AbstractDisasters have become frequent in recent years and have motivated the dev...",
+    "content": "Theoretical advances on anomaly detection and environmental monitoring systems building (FAPESP Grant #2021/01305-6)AbstractDisasters have become frequent in recent years and have motivated the development of new methods and tools for systematic monitoring of areas and other factors that may imply risks to society. Remote Sensing rises as an indispensable technology for applications related to environmental monitoring. Its use combined with Machine Learning techniques, especially anomaly detection methods, allows identifying the spatial dynamics/changes over time. In this context, this research project focuses on developing new anomaly detection methods able to provide competitive results compared to the usual alternatives. Furthermore, this research’s theoretical advances will be used to implement environmental monitoring systems prototypes applied to deforestation, burns, water eutrophication, dam collapse prevention, and exotic vegetation species management.JournalsANANIAS, P. H. M.; NEGRI, R. G.; DIAS, M. A.; SILVA, E. A.; CASACA, W. C. O. A Fully Unsupervised Machine Learning Framework for Algal Bloom Forecasting in Inland Waters Using MODIS Time Series and Climatic Products. Remote Sensing, 2022.  Document (open access)  Codes  DatasetsLUZ, A. E. O.; NEGRI, R. G.; MASSI, K. G.; COLNAGO, M.; SILVA, E. A.; CASACA, W. C. O. Mapping Fire Susceptibility in the Brazilian Amazon Forests Using Multitemporal Remote Sensing and Time-Varying Unsupervised Anomaly Detection. Remote Sensing, 2022.  Document (open access)  Codes  Datasets"
+  },
+  
+  {
     "title": "Software",
     "url": "/posts/Software/",
     "categories": "image processing",
