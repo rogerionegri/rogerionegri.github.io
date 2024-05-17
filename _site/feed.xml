@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Rogério G. Negri</title>
   <subtitle>Research portfolio of academic projects. </subtitle>
-  <updated>2024-05-17T14:52:06-03:00</updated>
+  <updated>2024-05-17T15:03:43-03:00</updated>
   <author>
     <name>Rogério Galante Negri</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/iFAST2024-2026/" rel="alternate" type="text/html" title="iFAST" />
     <published>2024-01-01T00:00:00-03:00</published>
   
-    <updated>2024-01-01T00:00:00-03:00</updated>
+    <updated>2024-05-17T14:53:02-03:00</updated>
   
     <id>http://localhost:4000/posts/iFAST2024-2026/</id>
     <content src="http://localhost:4000/posts/iFAST2024-2026/" />
