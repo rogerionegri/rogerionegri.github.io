@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Rogério G. Negri</title>
   <subtitle>Research portfolio of academic projects. </subtitle>
-  <updated>2023-09-15T11:49:43-03:00</updated>
+  <updated>2024-05-17T14:25:50-03:00</updated>
   <author>
     <name>Rogério Galante Negri</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,57 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 Rogério Galante Negri </rights>
+  <rights> © 2024 Rogério Galante Negri </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>iFAST</title>
+    <link href="http://localhost:4000/posts/iFAST2024-2026/" rel="alternate" type="text/html" title="iFAST" />
+    <published>2024-01-01T00:00:00-03:00</published>
+  
+    <updated>2024-01-01T00:00:00-03:00</updated>
+  
+    <id>http://localhost:4000/posts/iFAST2024-2026/</id>
+    <content src="http://localhost:4000/posts/iFAST2024-2026/" />
+    <author>
+      <name>Rogério Galante Negri</name>
+    </author>
+
+  
+    
+    <category term="flash floods" />
+    
+    <category term="modeling" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      iFAST nome
+iFAST - Intelligent Flood Alert Surveillance Tools (CNPq Grant #2021/01305-6)
+
+Abstract
+
+The general objective of this project is to produce interdisciplinary scientific knowledge and promote technological development in the generation of forecast products for hydrological extremes in river basins with a history of flash floods and urban flooding.
+
+Specific objectives are:
+
+
+  
+    C...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
