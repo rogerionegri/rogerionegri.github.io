@@ -9,22 +9,20 @@ order: 4
 
 # Resume 
 
-Hello, I'm Vitor, currently pursuing a degree in Environmental Engineering at the São Paulo State University. I have three years of experience in scientific research focused on data analysis and natural disasters. During this time, I have worked on data visualization, statistical analysis and modeling, as well as data automation. I have utilized tools such as Python, Excel, and geoprocessing and remote sensing software.
-
-
-Currently, I work professionally as a Data intern, where I perform a variety of tasks including data analysis, visualization, extraction, documentation, and data governance. I have knowledge of databases such as PostgreSQL and BigQuery, and I am proficient in executing complex queries. Additionally, I am familiar with Data Warehouse concepts, Agile methodology, and creating dashboards using platforms like Metabase, Data Studio, Power BI, Streamlit, and Grafana.
-
-
+Rogério G. Negri received the undergraduate degree in Mathematics (2006) at Universidade Estadual Paulista (UNESP), and the M.Sc. (2009) and Ph.D. (2013) in Applied Computation at Intituto Nacional de Pesquisas Espaciais (INPE). His main research interests include pattern recognition and image processing. He is currently Associate Professor at UNESP, São José dos Campos, São Paulo, Brazil.
 
 ## Skills 
-* Python (Matplotlib, Plotly, Pandas, NumPy, Streamlit, SciPy, Scitkit-learn, ApacheBeam, Seaborn);
-* Database (PostgreeSQL, MySQL BigQuery); 
-* Excel and Sheets;
-* Power BI, Data Studio and Metabase;
-* Statistics (Parametric and non-parametric tests, correlations, covariances and normality tests) ;
-* Geoprocessing (Geopandas, ArcGIS and QGIS) ;
-* Remote Sensing (ENVI); 
-* Scientific Writing ; 
-* Git;
-* HTML and CSS; 
-* Basics of Javacript (NodeJs);
+* Mathematics and Statistics
+* Programming
+* Pattern Recognition and Machine Learning
+* Geoprocessing;
+* Remote Sensing; 
+* Scientific Writing;
+
+## Academic
+* [CV](http://lattes.cnpq.br/8201805132981288)
+* [FAPESP](http://bv.fapesp.br/pt/pesquisador/64752)
+* [ORCID](https://orcid.org/0000-0002-4808-2362)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=54409218100)
+* [Google Scholar](http://scholar.google.com/citations?user=a6sjIjQAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Rogerio-Negri)
