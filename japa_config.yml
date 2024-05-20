@@ -18,35 +18,34 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rogério G. Negri # the main title
+title: Vitor Yuichi # the main title
 
-tagline: Professor | Applied Computing | Remote Sensing | Geosciences   # it will display as the sub-title
+tagline: Environmental Engineer working as a Data Analyst  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Research portfolio of academic projects. 
+  This is a personal portfolio of my academic and professional projects. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://rogerionegri.github.io/"
+url: "https://vitor-yuichi.github.io/"
 
 github:
-  username: rogerionegri  # change to your github username
+  username: vitor-yuichi  # change to your github username
 
-#twitter:
-#  username: twitter_username # change to your twitter username
+twitter:
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Rogério Galante Negri
-  email: anonymous@unesp.br # change to your email address
+  name: Vitor Yuichi Hossaki
+  email: vitor.yuichi@unesp.br # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/rogerionegri # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/vitor-yuichi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    #- https://www.linkedin.com/in/vitor-yuichi-67109817b/
-    - https://www.researchgate.net/profile/Rogerio-Negri
+    - https://www.linkedin.com/in/vitor-yuichi-67109817b/
 
 google_site_verification: # fill in to your verification string
 
@@ -71,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
